@@ -1,5 +1,5 @@
 #Código do perfil da @rafaballerini
-name: Generate Datas
+name: Snake Game
 
 on:
   schedule: # execute every 12 hours
