@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Snake animation](https://github.com/gacambuy/gacambuy/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.verce1.app/api/pin/?username=gacambuy&repo=gacambuy&theme=react)](https://github.com/gacambuy/gacambuy)
